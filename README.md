@@ -1,6 +1,7 @@
 <div align="center">
 
 ######  [STRAWPAGE](https://jena11.straw.page/) ㅤ [ATABOOK](https://yento.atabook.org/)
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/309ac967-cc05-4b22-929e-d89b8fee8d29" />
 
 <!--
 **yakeIore/yakeIore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

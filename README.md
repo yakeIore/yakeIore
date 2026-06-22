@@ -1,4 +1,4 @@
-######  [𝗔𝗧𝗔𝗕𝗢𝗢𝗞](https://yento.atabook.org/)
+######  [𝗔𝗧𝗔𝗕𝗢𝗢𝗞](https://duetduck.atabook.org/)
 
 
 
